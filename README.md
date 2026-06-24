@@ -30,6 +30,7 @@ AI-powered resume optimization and job matching platform. Upload your resume onc
 | Job APIs | JSearch (RapidAPI), Adzuna |
 | Hosting | Railway |
 | Domain | Namecheap |
+| Backend | Python |
 
 ## 🚀 Live Demo
 
